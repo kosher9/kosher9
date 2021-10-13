@@ -1,4 +1,4 @@
-### Hello 👋, I'm Kosher
+### Hello there 👋, I'm Kosher
 
 <!--
 **kosher9/kosher9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
