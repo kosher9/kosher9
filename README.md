@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about android app development
-- 📫 How to reach me: Twitter: [kosherus](https://twitter.com/kosherus), LinkedIn: [Lionel Cédric KOSSI](https://www.linkedin.com/in/lionel-c%C3%A9dric-kossi-323042172/), gmail: lionel.kossi@gmail.com
+- 📫 How to reach me: Twitter: [kosherus](https://twitter.com/kosherus) | LinkedIn: [Lionel Cédric KOSSI](https://www.linkedin.com/in/lionel-c%C3%A9dric-kossi-323042172/) | gmail: lionel.kossi@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Do not listen to African music while working! No one can stop you from dancing.
 
