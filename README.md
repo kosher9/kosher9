@@ -11,7 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Do not listen to African music while working! No one can stop you from dancing.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosher9&count_private=true&layout=compact&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosher9&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kosher9&count_private=true&layout=compact&theme=tokyonight" height="175"/>     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosher9&layout=compact&theme=tokyonight" height="175"/>
