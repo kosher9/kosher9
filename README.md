@@ -1,7 +1,7 @@
 ### Hello there 👋, I'm Cedric Kossi. You can call me Kosher 😎
-I have a great experience in the development of native applications. Now I am very interested in web development. I would like to contribute to many open-source projects. I am open to new challenges. I'm sure this is the best way to find out more.
+I have great experience in android native app development. Now I am very interested in web development. I would like to contribute to many open-source projects. I am open to new challenges. I'm sure this is a good way to learn more.
 
-Here are some ideas to get you started:
+About me :
 
 - 🔭 I’m currently working on [pasthee](https://github.com/kosher9/pasthee)
 - 🌱 I’m currently learning Web development
