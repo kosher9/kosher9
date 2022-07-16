@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Cedric Kossi. You can call me Kosher 😎
+### Hello there 👋, I'm Lionel KOSSI. You can call me Kosher 😎
 I have great experience in android native app development. Now I am very interested in web development. I would like to contribute to many open-source projects. I am open to new challenges. I'm sure this is a good way to learn more.
 
 About me :
