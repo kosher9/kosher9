@@ -3,7 +3,7 @@ I have great experience in android native app development. Now I am very interes
 
 About me :
 
-- 🔭 I’m currently working on [pasthee](https://github.com/kosher9/pasthee)
+- 🔭 I’m currently working on [Linkify](https://github.com/Design-and-Code/Linkify)
 - 🌱 I’m currently mastering Web development
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me anything about android app development
