@@ -1,5 +1,5 @@
 ### Hello there 👋, I'm Lionel Cedric KOSSI. You can call me Kosher 😎
-I have great experience in android native app development. Now I am very interested in web development. I would like to contribute to many open-source projects. I am open to new challenges. I'm sure this is a good way to learn more.
+I am a passionate full-stack developer and open to new challenges and opportunities. 🍀
 
 About me :
 
