@@ -3,7 +3,7 @@ I am a passionate full-stack developer and open to new challenges and opportunit
 
 About me :
 
-- 🔭 I’m currently working on [Linkify](https://github.com/Design-and-Code/Linkify)
+- 🔭 I’m currently working on [Gozem](https://gozem.co/)
 - 🌱 I’m currently mastering Web development
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me anything about android app development
