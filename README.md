@@ -3,8 +3,7 @@ I am a passionate full-stack developer and open to new challenges and opportunit
 
 About me :
 
-- 🔭 I’m currently working at [Gozem](https://gozem.co/en/)
-- 🌱 I’m currently mastering Web development
+- 🔭 I’m currently working at [Gozem](https://gozem.co)
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me anything about android app development
 - 📫 How to reach me: Twitter: [kosherus](https://twitter.com/kosherus) | LinkedIn: [Lionel Cédric KOSSI](https://www.linkedin.com/in/lionel-c%C3%A9dric-kossi-323042172/) | Gmail: lionel.kossi@gmail.com
